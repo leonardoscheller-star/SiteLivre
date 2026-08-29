@@ -1,9 +1,8 @@
 div{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: rgb(199, 190, 253);
     text-align: justify;
 }
 
 body {
-    background-color: rgb(145, 66, 47); 
+    background-color: rgb(61, 2, 54); 
 }
