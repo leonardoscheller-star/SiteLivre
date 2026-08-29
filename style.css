@@ -1,5 +1,5 @@
-.cartao-amigos{
-    color: rgb(199, 190, 253);
+.segundo-post{
+    color: #c7befd;
     text-align: justify;
 }
 
@@ -8,5 +8,9 @@ body {
 }
 .cartao-amigos{
      color: rgb(199, 190, 253);
+    text-align: justify;
+}
+.terceiro-post{
+    color: #c7befd;
     text-align: justify;
 }
