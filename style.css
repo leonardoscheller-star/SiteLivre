@@ -1,20 +1,20 @@
 .segundo-post{
-    color: #c7befd;
-    text-align: justify;
+    color: #c7befd; /* cor do texto */
+    text-align: justify; /* alinhamento do texto*/
 }
 
 body {
-    background-color: rgb(61, 2, 54); 
+    background-color: rgb(61, 2, 54); /*cor do fundo*/
 }
 .cartao-amigos{
-     color: rgb(199, 190, 253);
-    text-align: justify;
+     color: rgb(199, 190, 253); /* cor do texto */ 
+    text-align: justify; /* alinhamento do texto*/
 }
 .terceiro-post{
-    color: #c7befd;
-    text-align: justify;
+    color: #c7befd; /* cor do texto */
+    text-align: justify; /* alinhamento do texto*/
 }
 .quarto-post{
-     color: #c7befd;
-    text-align: justify;
+     color: #c7befd; /* cor do texto */
+    text-align: justify; /* alinhamento do texto*/
 }
