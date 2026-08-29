@@ -1,4 +1,4 @@
-function botaoClicado() {
+function botaoClicado() { // botão funiconamento //
 console.log("fui clicado");
 let texto = botao.querySelector("span");
 
@@ -18,7 +18,7 @@ botoes.forEach(function(botao) {
         if (texto) {
             let numeroAtual = parseInt(texto.textContent) || 0;
             if (jaCurtiu === false) {
-                texto.textContent = numeroAtual + 1;//se ainda nao tiver curtido e apertar adiciona 1 e jaCurtiu fica verdadeiro
+                texto.textContent = numeroAtual + 1;
                 jaCurtiu = true;
             } else {
                 texto.textContent = numeroAtual - 1;
