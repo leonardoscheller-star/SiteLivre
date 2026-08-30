@@ -18,3 +18,6 @@ body {
      color: #c7befd; /* cor do texto */
     text-align: justify; /* alinhamento do texto*/
 }
+article{
+    background-color: blueviolet;
+}
